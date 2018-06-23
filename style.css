@@ -1,0 +1,193 @@
+@charset "utf-8";
+#container {
+	
+	width: 1290px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+}
+#container  h1  {
+	font-size: 40px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#div1 {
+	float: left;
+	height: 645px;
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#p1 {
+	float: left;
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	padding-right: 0px;
+}
+#p2 {
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	float: left;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-color:black;
+	color:white;
+}
+#container #p2 p {
+	padding-right: 65px;
+	padding-left: 77px;
+}
+
+#p3 {
+	width: 1290px;
+	border-width: 0px;
+	border-style: solid;
+	float: left;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+#container #p3 p {
+	/* [disabled]padding-top: 2px; */
+	/* [disabled]padding-bottom: 2px; */
+	padding-right: 65px;
+	padding-left: 70px;
+
+
+}
+
+#p4 {
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	float: left;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-color:black;
+	color:white;
+}
+#container #p4 p {
+	padding-right: 65px;
+	padding-left: 83px;
+}
+
+#p5 {
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	float: left;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-color:black;
+	color:white;
+}
+#container #p5 p {
+	padding-right: 126px;
+	padding-left: 137px;
+}
+
+#p6 {
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	float: left;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	padding-bottom: 66px;
+}
+#p6 ul {
+	overflow-x: visible;
+	opacity: 1;
+	text-align: right;
+	background-color: black;
+	color: white;
+	padding-right: 345px;
+	padding-left: 331px;
+	/* [disabled]padding-top: 251px; */
+	/* [disabled]padding-bottom: 251px; */
+	
+	
+}
+
+#ads {
+	height: 100px;
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#youtube {
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	background-color: black;
+	text-align: center;
+	
+}
+
+#vid {
+	height: 500px;
+	width: 800px;
+	
+}
+
+#anim {
+	
+	width: 1290px;
+	height: 900px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	background-color: black;
+	text-align: center;
+	
+}#EdgeID {
+	padding-left: 0px;
+
+}
+#aimate {
+	float: left;
+	height: 904px;
+	width: 1290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
