@@ -10,7 +10,7 @@
 	border-style: solid;
 }
 #container  h1  {
-	font-size: 40px;
+	font-size: 50px;
 	text-align: center;
 	text-decoration: none;
 }
@@ -38,6 +38,12 @@
 	color: white;
 	padding-right: 0px;
 }
+#container #p1 p {
+	font-size: 30px;
+	padding-right: 65px;
+	padding-left: 77px;
+}
+
 #p2 {
 	width: 1290px;
 	margin-right: 0px;
@@ -54,6 +60,7 @@
 #container #p2 p {
 	padding-right: 65px;
 	padding-left: 77px;
+	font-size: 30px;
 }
 
 #p3 {
@@ -74,6 +81,7 @@
 	/* [disabled]padding-bottom: 2px; */
 	padding-right: 65px;
 	padding-left: 70px;
+	font-size: 30px;
 
 
 }
@@ -94,6 +102,7 @@
 #container #p4 p {
 	padding-right: 65px;
 	padding-left: 83px;
+	font-size: 30px;
 }
 
 #p5 {
@@ -112,6 +121,7 @@
 #container #p5 p {
 	padding-right: 126px;
 	padding-left: 137px;
+	font-size: 30px;
 }
 
 #p6 {
@@ -138,6 +148,7 @@
 	padding-left: 331px;
 	/* [disabled]padding-top: 251px; */
 	/* [disabled]padding-bottom: 251px; */
+	font-size: 30px;
 	
 	
 }
@@ -150,38 +161,7 @@
 	border-width: 0px;
 	border-style: solid;
 }
-#youtube {
-	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
-	border-width: 0px;
-	border-style: solid;
-	background-color: black;
-	text-align: center;
-	
-}
 
-#vid {
-	height: 500px;
-	width: 800px;
-	
-}
-
-#anim {
-	
-	width: 1290px;
-	height: 900px;
-	margin-right: 0px;
-	margin-left: 0px;
-	border-width: 0px;
-	border-style: solid;
-	background-color: black;
-	text-align: center;
-	
-}#EdgeID {
-	padding-left: 0px;
-
-}
 #aimate {
 	float: left;
 	height: 904px;
