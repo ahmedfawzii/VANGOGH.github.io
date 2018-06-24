@@ -7,6 +7,7 @@ body {
 	padding: 0px;
 	
 }
+
 #container {
 	float: none;
 	width: 1290px;
@@ -16,9 +17,10 @@ body {
 	margin-left: auto;
 	border-width: 0px;
 	border-style: solid;
-	background-image: url(bg3.jpg);
+	background-image: url(../../../van%20gogh/bg3.jpg);
 	background-size: cover;
 }
+
 #container  h1  {
 	font-size: 50px;
 	text-align: center;
@@ -34,6 +36,7 @@ body {
 	border-style: solid;
 	background-size: cover;
 }
+
 #p1 {
 	
 	width: 1290px;
@@ -47,11 +50,13 @@ body {
 	color: white;
 	padding-right: 0px;
 }
+
 #container #p1 p {
 	padding-right: 65px;
 	padding-left: 77px;
 	font-size: 35px;
 }
+
 #p2 {
 	width: 1290px;
 	margin-right: 0px;
@@ -63,6 +68,7 @@ body {
 	font-weight: bold;
 	color:white;
 }
+
 #container #p2 p {
 	padding-right: 65px;
 	padding-left: 77px;
@@ -81,6 +87,7 @@ body {
 	padding-right: 0px;
 	padding-left: 0px;
 }
+
 #container #p3 p {
 	/* [disabled]padding-top: 2px; */
 	/* [disabled]padding-bottom: 2px; */
@@ -102,6 +109,7 @@ body {
 	font-weight: bold;
 	color:white;
 }
+
 #container #p4 p {
 	padding-right: 65px;
 	padding-left: 83px;
@@ -121,6 +129,7 @@ body {
 	
 	color:white;
 }
+
 #container #p5 p {
 	padding-right: 126px;
 	padding-left: 137px;
@@ -140,6 +149,7 @@ body {
 	color: white;
 	padding-bottom: 66px;
 }
+
 #p6 ul {
 	overflow-x: visible;
 	opacity: 1;
@@ -164,15 +174,6 @@ body {
 	border-width: 0px;
 	border-style: solid;
 }
-
-
-#vid {
-	height: 500px;
-	width: 800px;
-	
-}
-
-
 
 #aimate {
 	height: 904px;
