@@ -1,6 +1,6 @@
 @charset "utf-8";
+
 #container {
-	
 	width: 1290px;
 	margin-top: 0px;
 	margin-right: auto;
@@ -23,6 +23,7 @@
 	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
+	
 }
 #p1 {
 	float: left;
@@ -34,9 +35,12 @@
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: center;
 	font-weight: bold;
-	background-color: black;
 	color: white;
 	padding-right: 0px;
+	background-image: url(bg3.jpg);
+	background-size: cover;
+
+
 }
 #container #p1 p {
 	font-size: 30px;
@@ -54,8 +58,9 @@
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: center;
 	font-weight: bold;
-	background-color:black;
 	color:white;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 }
 #container #p2 p {
 	padding-right: 65px;
@@ -71,10 +76,11 @@
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: center;
 	font-weight: bold;
-	background-color: black;
 	color: white;
 	padding-right: 0px;
 	padding-left: 0px;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 }
 #container #p3 p {
 	/* [disabled]padding-top: 2px; */
@@ -96,8 +102,9 @@
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: center;
 	font-weight: bold;
-	background-color:black;
 	color:white;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 }
 #container #p4 p {
 	padding-right: 65px;
@@ -115,8 +122,9 @@
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: center;
 	font-weight: bold;
-	background-color:black;
 	color:white;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 }
 #container #p5 p {
 	padding-right: 126px;
@@ -134,21 +142,23 @@
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: center;
 	font-weight: bold;
-	background-color: black;
 	color: white;
 	padding-bottom: 66px;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 }
 #p6 ul {
 	overflow-x: visible;
 	opacity: 1;
 	text-align: right;
-	background-color: black;
 	color: white;
 	padding-right: 345px;
 	padding-left: 331px;
 	/* [disabled]padding-top: 251px; */
 	/* [disabled]padding-bottom: 251px; */
 	font-size: 30px;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 	
 	
 }
@@ -160,6 +170,8 @@
 	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 }
 
 #aimate {
@@ -170,4 +182,6 @@
 	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
+	background-image: url(bg3.jpg);
+	background-size: cover;
 }
