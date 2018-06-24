@@ -1,15 +1,9 @@
 @charset "utf-8";
 body {
-	
-	width: 1290px;
-	text-align: center;
-	margin: 0px;
-	padding: 0px;
-	
+	margin: 0;
+	padding: 0;
 }
-
 #container {
-	float: none;
 	width: 1290px;
 	margin-top: 0px;
 	margin-right: auto;
@@ -17,169 +11,88 @@ body {
 	margin-left: auto;
 	border-width: 0px;
 	border-style: solid;
-	background-image: url(../../../van%20gogh/bg3.jpg);
-	background-size: cover;
+	background-image:url(../pics/finalb.jpg);
 }
-
-#container  h1  {
-	font-size: 50px;
-	text-align: center;
-	text-decoration: none;
-}
-
-#div1 {
+#header {
+	margin: 0px;
 	height: 645px;
 	width: 1290px;
-	margin: 0px;
-	padding: 0px;
 	border-width: 0px;
 	border-style: solid;
-	background-size: cover;
+}
+#mid {
+	margin: 0px;
+	width: 1290px;
+	border-width: 0px;
+	border-style: solid;
+}
+h1 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 50px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#par {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 35px;
+	text-align: center;
+	color: #FFFFFF;
+	/* [disabled]padding-top: 19px; */
+	padding-right: 133px;
+	/* [disabled]padding-bottom: 19px; */
+	padding-left: 133px;
 }
 
 #p1 {
-	
+	margin: 0px;
 	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	text-align: center;
-	font-weight: bold;
-	color: white;
-	padding-right: 0px;
 }
-
-#container #p1 p {
-	padding-right: 65px;
-	padding-left: 77px;
-	font-size: 35px;
-}
-
 #p2 {
+	margin: 0px;
 	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	text-align: center;
-	font-weight: bold;
-	color:white;
 }
-
-#container #p2 p {
-	padding-right: 65px;
-	padding-left: 77px;
-	font-size: 35px;
-
-}
-
 #p3 {
+	margin: 0px;
 	width: 1290px;
 	border-width: 0px;
 	border-style: solid;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	text-align: center;
-	font-weight: bold;
-	color: white;
-	padding-right: 0px;
-	padding-left: 0px;
 }
-
-#container #p3 p {
-	/* [disabled]padding-top: 2px; */
-	/* [disabled]padding-bottom: 2px; */
-	padding-right: 65px;
-	padding-left: 70px;
-	font-size: 35px;
-
-
-}
-
 #p4 {
+	margin: 0px;
 	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	text-align: center;
-	font-weight: bold;
-	color:white;
 }
-
-#container #p4 p {
-	padding-right: 65px;
-	padding-left: 83px;
-	font-size: 35px;
-
-}
-
 #p5 {
+	margin: 0px;
 	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	text-align: center;
-	font-weight: bold;
-	
-	color:white;
 }
-
-#container #p5 p {
-	padding-right: 126px;
-	padding-left: 137px;
-	font-size: 35px;
-
-}
-
 #p6 {
+	margin: 0px;
 	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
 	border-width: 0px;
 	border-style: solid;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	text-align: center;
-	font-weight: bold;
-	color: white;
-	padding-bottom: 66px;
 }
-
-#p6 ul {
-	overflow-x: visible;
-	opacity: 1;
-	text-align: right;
-	
-	color: white;
-	padding-right: 345px;
-	padding-left: 331px;
-	/* [disabled]padding-top: 251px; */
-	/* [disabled]padding-bottom: 251px; */
-	font-size: 35px;
-
-	
-	
+#youtube {
+	margin: 0px;
+	width: 1290px;
+	border-width: 0px;
+	border-style: solid;
+	text-align: center;
 }
 
 #ads {
-	height: 100px;
+	margin: 0px;
 	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
+	height: 150px;
 	border-width: 0px;
 	border-style: solid;
-}
-
-#aimate {
-	height: 904px;
-	width: 1290px;
-	margin-right: 0px;
-	margin-left: 0px;
-	border-width: 0px;
-	border-style: solid;
+	text-align: center;
 }
