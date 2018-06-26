@@ -10,7 +10,7 @@ body {
 	margin-bottom: 0px;
 	margin-left: auto;
 	border-width: 0px;
-	border-style: solid;
+	border-style:solid;
 	background-image:url(../pics/finalb.jpg);
 }
 #header {
@@ -89,10 +89,20 @@ h1 {
 }
 
 #ads {
-	margin: 0px;
-	width: 1290px;
-	height: 150px;
+	width: 1000px;
+	height: 310px;
 	border-width: 0px;
 	border-style: solid;
 	text-align: center;
+	margin-left: 146px;
+	/* [disabled]margin-top: 13px; */
+	margin-right: 129px;
+	/* [disabled]margin-bottom: 13px; */
+	
+}
+#anim {
+}
+#container #anim h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	word-spacing: 7px;
 }
