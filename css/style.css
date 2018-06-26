@@ -106,3 +106,15 @@ h1 {
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 	word-spacing: 7px;
 }
+
+#fbb {
+	width: 1000px;
+	height: 100px;
+	background-image: url(../pics/fbb.png);
+	text-align: center;
+	margin-left: 140px;
+}
+#button {
+	margin-left: 515px;
+	margin-top: 36px;
+}
